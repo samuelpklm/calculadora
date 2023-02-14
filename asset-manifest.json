@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/calculadora/static/css/main.beef2a2d.css",
+    "main.js": "/calculadora/static/js/main.edb4b40f.js",
+    "static/media/fcc_primary_large.svg": "/calculadora/static/media/fcc_primary_large.2847bc12544317f79647dc18d67a0930.svg",
+    "index.html": "/calculadora/index.html",
+    "main.beef2a2d.css.map": "/calculadora/static/css/main.beef2a2d.css.map",
+    "main.edb4b40f.js.map": "/calculadora/static/js/main.edb4b40f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.beef2a2d.css",
+    "static/js/main.edb4b40f.js"
+  ]
+}
